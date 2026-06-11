@@ -1,46 +1,45 @@
-AI is like anger.
+# LinkedIn Post - Test Output
 
-When it's UNDIRECTED, it's dangerous as hell.
-You're just spinning, burning energy, destroying things that don't deserve it.
-It feels like power but it's actually chaos.
-(This is where most AI adoption is right now, by the way.)
+Mission drift rarely begins with a dramatic betrayal.
 
-When it's INTENTIONAL, it's an AMAZING catalyst for change.
+It usually begins with a reasonable funding compromise.
 
-Same force. Same intensity. Different outcome.
+A restricted grant arrives.
 
-The difference isn't the tool.
-It's the clarity.
+The work is adjacent to the mission.
 
-Do you know what problem you're actually solving?
-Do you know WHO you're solving it for?
-Do you know what success looks like in 90 days?
+The money is meaningful.
 
-Most people skip these and just start cranking.
-They adopt AI like they're checking a box.
-Then they wonder why it doesn't stick.
+The timeline is tight.
 
-Here's what I've seen work with my Light School clients:
-Pick ONE real problem.
-One person it matters for.
-One specific outcome you're chasing.
+The reporting obligations seem manageable.
 
-Then let AI amplify THAT.
+Then the institution starts bending around the grant.
 
-Not everything.
-Not tomorrow.
-Not because everyone else is doing it.
+Staffing changes.
 
-Because you actually need it to solve something real.
+Priorities shift.
 
-The anger metaphor hits different when you think about it that way.
-You don't want to be the person who just explodes.
-You want to be the person who channels it.
-Who turns that intensity into something that actually MOVES.
+Board attention moves from mission architecture to deliverable management.
 
-That's when AI stops being a buzzword and becomes part of your actual business.
+The organization does not collapse.
 
-DM me if you want to workshop this for your situation.
-Or join the free workshop where we map out your first AI play (link in comments).
+It slowly becomes something else.
 
-Let's make it intentional.
+That is why grant strategy is a governance function.
+
+Not just a fundraising function.
+
+A young scientific nonprofit needs policies, decision protocols, restricted fund controls, risk review, and mission alignment tests before it scales aggressively through grants.
+
+The Johann Christian Hasse Foundation is building that architecture now.
+
+Because the right question is not only:
+
+"Can we win this grant?"
+
+It is:
+
+"Can we accept this grant without losing the institution we are trying to build?"
+
+Serious feedback from nonprofit governance, philanthropy, and scientific institution builders is welcome.

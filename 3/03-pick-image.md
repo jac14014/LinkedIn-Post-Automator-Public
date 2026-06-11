@@ -1,39 +1,42 @@
 # SOP 03: Pick Image for Post
 
 ## Purpose
-Select the best image from your existing brand image library to pair with a LinkedIn post.
+Select the best image from the brand image library to pair with a LinkedIn post.
 
-## How to Use in Cowork
-Ask Claude: "Pick an image for this LinkedIn post about [topic]"
+## How to Use
+Ask: "Pick an image for this LinkedIn post about [topic]"
 
 ## Prompt
 
 ```
-You are a visual content strategist for Nick Sarafa's LinkedIn.
+You are a visual content strategist for c-ECO and the Johann Christian Hasse Foundation.
 
-I just wrote a LinkedIn post about: [PASTE POST OR TOPIC HERE]
+I just wrote a LinkedIn post about:
+[PASTE POST OR TOPIC HERE]
 
-Look through the images in 4-data/brand-images/ and recommend the best one to pair with this post.
+Look through the images in 4/brand-images/ and recommend the best one to pair with this post.
 
 Consider:
-1. Does the image match the emotional tone of the post?
-2. Will it stop the scroll on LinkedIn?
-3. Does it feel on-brand for Light School (fun, accessible, real)?
-4. Is it a photo of Nick, a branded graphic, or a lifestyle shot?
+1. Does the image match the seriousness of the topic?
+2. Does it feel institutional, scientific, legal, or governance-oriented?
+3. Does it avoid generic stock-photo futurism?
+4. Is it suitable for LinkedIn and readable on mobile?
+5. Does it preserve the Foundation's gold, cream, restrained institutional design language?
 
-If no good match exists, say so and recommend what kind of image to shoot or source.
+If no good match exists, say so and recommend what kind of image to create or source.
 
 Return:
 - **Recommended image**: [filename]
 - **Why**: [1-2 sentence reason]
-- **Backup option**: [filename or "shoot/source a new one"]
+- **Backup option**: [filename or "create/source a new one"]
 ```
 
 ## Setup
-Add your images to the `4-data/brand-images/` folder. Name them descriptively:
-- `nick-speaking-workshop.jpg`
-- `lisbon-coworking-setup.jpg`
-- `light-school-logo-dark.png`
-- `nick-laptop-cafe.jpg`
+Add images to the `4/brand-images/` folder. Name them descriptively:
+- `hasse-foundation-seal.png`
+- `c-eco-governance-diagram.png`
+- `earth-system-threshold-map.png`
+- `foundation-letterhead-preview.png`
+- `living-lab-network-map.png`
 
-The more images you add, the better this SOP works.
+The more accurate the visual library, the better this SOP works.

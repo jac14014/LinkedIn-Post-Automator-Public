@@ -1,52 +1,81 @@
-# Brand Guidelines - Light School / Nick Sarafa
+# Brand Guidelines - c-ECO / Johann Christian Hasse Foundation
 
-## Company Tone of Voice
-Fun. 5th grade language. Easy to understand. You can do it too. You have a place in this new world. Make AI accessible for everybody. Make it light. Make it fun. So easy a 12-year-old can do it. So easy your mom can do it.
+## Institutional Tone of Voice
+Formal, clear, sober, and intellectually alive.
 
-Everything beginner friendly. New tools but that's okay, because it's a new world. The future is for everybody. You are smarter than you think. Let your light shine. You learned to use an iPhone, you can learn this too.
+The voice should feel like a serious founder building a scientific and governance institution in public. It should be accessible enough for LinkedIn, but never shallow.
 
-## Nick's Personal Tone of Voice
+Use precise language. Explain hard ideas without diluting them.
 
-### Rules
-- Conversational, direct, irreverent. Cut through fluff and say the thing most people are thinking but won't post.
-- Short, punchy bursts mixed with raw depth. Not afraid of a one-liner that smacks, then a longer riff where you unpack your thought.
-- Self-aware humor. Clown on yourself mid-sentence, make fun of industry cliches, drop a "yeah, I said it" type aside.
-- Clarity over polish. Posts feel like they came straight from a note app rant or voice memo, not something that sat in drafts for 3 weeks.
-- Personal and real. Reference conversations, clients, Costa Rica, Detroit, or your own pivots like you're letting people peek behind the curtain.
+## Personal Tone of Voice
+The author voice is:
+- Reflective.
+- Architect-like.
+- Institutionally careful.
+- Conceptually sharp.
+- Calm under complexity.
+- Willing to name structural problems directly.
 
-### Voice Description
-- Speak like you do on the world's best-performing LinkedIn posts: direct, funny, and slightly dangerous.
-- No "thought leader" jargon. More "guy who's actually building this thing in public and telling you what's real."
-- Punch holes in common advice, then show the receipts. "Everyone's obsessed with X. But here's what actually made money this week."
-- Use data + insightful, funny, and educational takes.
-- Keep it raw. If something's a mess, call it a mess. If something crushes, break down exactly why without acting like it's a secret formula.
-- Always end with a clear move for the reader. Not hypey scarcity, just "here's what to do next."
-- Clearly outline insights. Make it short and punchy.
+The author is not trying to sound like a startup influencer. The author is documenting a serious governance architecture as it develops.
 
-### Brand Personality
-The blunt but funny strategic partner. Think "the friend who calls you out, but then stays up late helping you fix it."
-- No-BS truth. If it doesn't work, say it. If it does, show it.
-- Masculine structure with creative chaos. You architect systems so others can stay in flow.
-- Behind-the-scenes transparency. No guru vibes. Just data + lived experience.
-- Fun-first energy. Ambition without sacrificing love, freedom, or play.
-- Educational and Fun: Funducational. Give facts, insights, but make it funny.
-- The guy who posts voice-note level riffs that get people to stop scrolling, laugh once, and then DM you.
+## Voice Rules
+- One idea per paragraph.
+- Use short paragraphs for readability.
+- Define technical terms when useful.
+- Lead with a real tension, not a slogan.
+- Prefer concrete institutional examples over abstract moral claims.
+- Be careful with scientific, legal, funding, and partnership claims.
+- Sound human, but not casual for its own sake.
+- Use Portuguese or English depending on the target audience, but do not mix casually unless intentional.
 
-### Copywriting Rules
-- One sentence per line for scannability.
-- Break the pattern with a quick joke, analogy, or emoji.
-- NEVER EVER USE EM-DASHES (do not use the character: --)
-- NEVER use "DM me [word]" style CTAs. No "DM me 'build'" or "DM me 'system'" etc. Instead use natural CTAs like asking a question, pointing to a link in comments, or inviting conversation without the keyword gimmick.
-- NEVER use "(Spoiler: ...)" parenthetical asides. They feel forced and formulaic. If you want to make a point, just say it directly.
-- Parentheses for insider asides (like this).
-- Specific numbers always. ("3 clients this week" > "recently.")
-- Call out the reader mid-thought. ("And here's where you're stuck too...")
-- Drop casual profanity sparingly. When it lands, it lands.
-- Emphasize words for fun. CAPITALIZE when it makes sense.
-- Make it sound like a personal voice note.
+## Copywriting Rules
+- Strong first line. It should name a tension serious readers care about.
+- Avoid dense academic paragraphs.
+- Avoid hype.
+- Avoid "we are revolutionizing" language.
+- Avoid "DM me [keyword]" CTAs.
+- Avoid fake urgency.
+- Do not disclose confidential candidate, donor, grant, legal, or governance information.
+- Never imply official endorsement or partnership unless confirmed.
+- Use examples from c-ECO only when public or safe to share.
+
+## Preferred Language
+Use terms like:
+- Predictive governance.
+- Systemic risk.
+- Earth system integrity.
+- Institutional resilience.
+- Legal temporality.
+- Thresholds.
+- Reversibility before harm.
+- Governance before grants.
+- Mission stewardship.
+- Grant-readiness.
+- Fiduciary responsibility.
+- Complex systems.
+- Decision protocols.
+- Scientific integrity.
+
+Avoid overusing:
+- Disruption.
+- Revolutionary.
+- Game-changing.
+- Thought leadership.
+- Viral.
+- Hustle.
+- Scale at all costs.
 
 ## Design Guidelines
-- Colors: [ADD YOUR HEX CODES HERE]
-- Fonts: [ADD YOUR FONT NAMES HERE]
-- Logo: Available in Notion > COMPANY BRAND AND TONE OF VOICE FOLDER > Logos
-- Figma Brand Kit: www.figma.com/file/qCf3yuvlqDA7ug4RnGtmbM/Modern-Mantra-Brand-Kit
+- Colors: gold, cream, ivory, black, muted brown, institutional green, restrained blue.
+- Fonts: Cormorant Garamond, EB Garamond, Georgia, serif systems for Foundation materials.
+- Visual feel: institutional, archival, scientific, legal, understated.
+- Avoid flashy startup gradients, neon palettes, and generic stock-photo futurism.
+- Preferred imagery: governance documents, diagrams, systems maps, Earth observation, institutional architecture, legal/scientific notebooks, Foundation seal, formal letterhead, Living Lab locations.
+
+## CTA Style
+Use calm invitations:
+- "Serious feedback is welcome."
+- "If this is your field, I would be glad to connect."
+- "I am looking for people who think carefully about this problem."
+- "More on the architecture here: [link]"
+- "This is one part of a longer institutional build."

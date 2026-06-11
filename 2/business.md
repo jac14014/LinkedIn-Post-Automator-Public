@@ -1,57 +1,68 @@
-# Business Context - Light School
+# Business Context - c-ECO and Johann Christian Hasse Foundation
 
-## Tagline
-Unlocking teacher's wisdom to accelerate human flourishing.
+## Institutional Identity
+c-ECO is a predictive governance architecture for Earth system integrity, systemic risk, and long-term institutional resilience.
+
+The Johann Christian Hasse Foundation is the nonprofit governance and institutional development vehicle connected to this work.
+
+## Tagline Options
+- Predictive governance for Earth system integrity.
+- Governance before irreversibility.
+- Reversibility before harm.
+- Institutional architecture for systemic risk.
+- Translating scientific signals into governable duties.
 
 ## What We Do
-Light School helps non-technical, mission-driven founders launch their digital ventures using AI, without needing to waste their time, money, and momentum.
+c-ECO develops legal, scientific, governance, and institutional architectures for acting before systemic risk crosses irreversible thresholds.
 
-We combine ancient wisdom with future technologies to empower spirit-aware craftspeople to manifest and innovate more effectively.
+The Foundation supports the development of doctrine, governance structures, fellowship pathways, advisory bodies, grant strategy, institutional partnerships, and Living Lab models.
 
-## Value Propositions (Pick Your Flavor)
-- We help non-technical entrepreneurs on a spiritual path to launch the tech company that is in alignment with their mission, without losing sleep at night over the product.
-- We help non-technical, mission-driven founders to manifest their technological visions, without needing to sacrifice their health or overcomplicate the process.
-- We help non-technical founders on a spiritual path to launch their digital venture, without needing to waste their time, money, and momentum.
+## Core Areas
+- Predictive governance.
+- Earth system integrity.
+- Systemic risk and resilience.
+- Legal temporality and dynamic validity.
+- Threshold Function Protocol (TFP).
+- Temporal Decision Register (TDR).
+- Living Labs and institutional implementation pathways.
+- Fellowship, education, and research translation.
+- Nonprofit governance and grant-readiness architecture.
 
-## Core Philosophy
-- High ticket offers work because they actually solve the problem for a client.
-- The difference between information and transformation: go for transformation.
-- The only thing that matters is the outcome that your client will achieve.
-- Build 100% of your comms around the outcome that you provide.
+## Value Proposition
+For researchers, institutions, funders, and governance practitioners:
+c-ECO provides a framework for translating early warning signals, ecological thresholds, legal duties, and institutional decision protocols into a coherent governance architecture.
 
-## Client Outcome
-- Create a future-proofed product roadmap
-- Articulate your life's calling through technology
-- Define your starting point and next steps to innovate your business
-- Gain direction and momentum to create systems change
-- Create your MVP and roadmap from your heart
-- Architect your venture for impact, income, and alignment
+For the Foundation:
+The work creates a disciplined nonprofit structure capable of stewarding long-term scientific, legal, and institutional development without sacrificing mission integrity to speed, funding pressure, or premature scale.
 
-## Ideal Client
-- Traits desired: articulate, spiritual, courageous, coachable
-- Traits NOT desired: non-committal, fear-driven, supremacy, lack of integrity
+## Why It Matters
+Many institutions detect risk too late, assign responsibility too narrowly, and respond only after harm becomes politically, legally, or economically visible.
 
-## How the Client Feels BEFORE (Hell)
-- Feel like I'm being left behind, which will continue to grow with time
-- I cannot be effective in my mission
-- I fear that what I offer may become irrelevant
-- My confidence in execution is going down as tech speeds up
-- I have important work to do but feel stuck
+c-ECO asks a different question:
+What should governance look like when risk is foreseeable, systemically transmitted, and potentially irreversible?
 
-## How the Client Feels AFTER (Heaven)
-- I feel confident in my ability to move forward
-- I can clearly see the path forward
-- I know what support I need to get to my destination
-- I am conversational in a new technological language
-- I feel better equipped to fulfill my life's work in the digital age
+## Ideal Audiences
+- Earth system scientists.
+- Legal scholars and lawyers working on environmental, corporate, fiduciary, administrative, or international law.
+- Governance experts.
+- Philanthropic funders and foundation leaders.
+- Nonprofit board candidates and advisors.
+- Risk, resilience, and complex systems researchers.
+- Public institutions, multilateral organizations, and policy practitioners.
+- Serious builders interested in institutional design.
 
-## Key Links
-- Website: https://lightschool.com
-- Calendly: https://calendly.com/nicksarafa/ai-skill-shop-feedback
+## Current Public Links
+- Website: https://c-eco.org
+- Foundation: https://c-eco.org/foundation/foundation.html
+- Foundation Org Chart: https://c-eco.org/foundation/org-chart.html
+- Grant Strategy Chair Assessment: https://c-eco.org/foundation/founding-grant-strategy-assessment.html
 
 ## Brand Values
-- Separate signal from noise
-- Consistency and sitting down and doing
-- Theory applied to practice
-- Short term measurable outcomes
-- Expertise and knowledge that keeps updating as we go
+- Scientific integrity.
+- Institutional seriousness.
+- Legal precision.
+- Mission stewardship.
+- Reversibility before harm.
+- Biophysical limits as boundary conditions.
+- Human judgment supported by better signals and protocols.
+- Long-term resilience over short-term visibility.

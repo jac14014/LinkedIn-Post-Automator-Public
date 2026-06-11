@@ -1,38 +1,79 @@
-# About Me - Nick Sarafa
+# About Me - c-ECO Founder / Architect
 
-## Who I Am
-Nick Sarafa. Founder of Light School. Based between Lisbon, Detroit, and Costa Rica. Former software engineer turned business coach and AI educator.
+## Identity
+Name: [ADD YOUR FULL NAME]
 
-## My Story
-When I was a kid my grandmother was killed by somebody texting while driving. This threw me into an unexpected life path: creating software. From that moment forward I was obsessed with preventing other people from experiencing that same tragedy.
+Role: Founder / lead architect of c-ECO and the Johann Christian Hasse Foundation.
 
-I taught myself Java, became obsessed with software engineering, and spent 20,000+ hours inside a computer. I built tech startups, failed publicly, ran out of money, burned out, and learned the hard way that storytelling matters just as much as building.
+Location: [ADD LOCATION / TIME ZONE]
 
-Corporate life came next. I realized I was building someone else's dream. Quit. Tried stuff. Floated, failed, pivoted. Learned you don't need investors, offices, or permission. Just WiFi and grit.
+LinkedIn headline draft:
+Founder and lead architect, c-ECO | Johann Christian Hasse Foundation | Predictive governance, systemic risk, Earth system integrity, legal architecture, and institutional resilience.
 
-Now my path is tied to that young man's hard work. AI is taking over the world and thanks to those 20,000 hours I know the ins and outs of what's coming. I have a unique opportunity to teach others with Light School.
+## Short Bio
+I am building c-ECO and the Johann Christian Hasse Foundation as an institutional framework for predictive governance under systemic risk.
 
-## My Backstory (Short Version)
-- Startup -> Realized I was building someone else's dream. Quit.
-- Tried stuff -> Floated, failed, pivoted. Learned you don't need investors, offices, or permission. Just WiFi and grit.
-- Built things -> Different tech startups, now a business coach, launches, experiments. Learned what NOT to do before I learned what works.
-- Through it all -> Lesson is always the same: start before you're ready. Move fast. Fail loud. Adjust in public.
-- Used to be a software engineer, now an AI educator and business coach.
+The work sits at the intersection of science, law, governance, ecological limits, complex systems, institutional design, and long-term resilience.
 
-## Personal Goals / Vision
-- Freedom over grind. Work should fund life, not eat it.
-- Impact over noise. I'd rather 100 real transformations than 10k likes.
-- Legacy play. Build the empire, but keep it fun.
+c-ECO is not a slogan or a single product. It is an architecture: doctrine, protocols, thresholds, governance structures, institutional roles, funding strategy, fellowship pathways, and Living Lab models designed to help organizations act before irreversible harm becomes unavoidable.
+
+## Founder Story
+The personal story behind this work should be written in your own words.
+
+Use this section to add:
+- Why you began working on c-ECO.
+- What problem you saw that existing institutions were not solving.
+- Why the Johann Christian Hasse Foundation exists.
+- What life, academic, legal, scientific, institutional, or entrepreneurial experiences shaped this work.
+- Why you care about systemic risk, ecological integrity, and long-term institutional development.
+
+Draft positioning:
+I became convinced that many of the world's most serious risks are not failures of information alone. They are failures of timing, governance, legal architecture, and institutional coordination. We often know enough to act before harm becomes irreversible, but our institutions are not designed to respond at the right temporal scale.
+
+c-ECO is my attempt to build an architecture for that missing layer.
 
 ## Core Beliefs
-- Start now, fix it live. Perfection is procrastination.
-- Continuity beats one-off wins. Predictable revenue = creative freedom.
-- Systems let you flow. Structure = freedom.
-- Stop building websites, start selling offers. Revenue validates everything.
-- Your struggle is your story. Talk about the failures. They're what make you believable.
-- Marketing should feel fun and sexy, not like a day job.
-- Throw out the old business and life playbook. The world is moving at a different pace now.
+- Governance must become predictive, not merely reactive.
+- Biophysical limits are not externalities. They are boundary conditions.
+- Law has a temporal problem: validity, obligation, and responsibility change when systemic risk becomes foreseeable.
+- Institutions need decision protocols before crisis, not improvisation after harm.
+- Grant funding can strengthen a young nonprofit, but it can also distort or overextend it without governance safeguards.
+- Scientific integrity and institutional legitimacy must be protected before scale.
+- The most important systems are often invisible until they fail.
+- Serious institutional work should move carefully, but not passively.
 
 ## Contrarian Takes
-- AI will both harm and save the world in many unique ways. Talk about these.
-- You don't need to be a guru. Just be one step ahead and document.
+- The climate problem is also a governance-timing problem.
+- Some legal systems are built to recognize harm too late.
+- A young institution should not chase every large grant. It should first know what kind of growth it can survive.
+- "Innovation" without governance architecture can become acceleration toward fragility.
+- Predictive governance is not about replacing human judgment. It is about giving judgment better signals, structures, and duties.
+- The future of resilience will depend as much on institutional design as on technology.
+
+## Personal Voice
+Write as a serious builder, not a pundit.
+
+The voice should be:
+- Clear, precise, and institutionally credible.
+- Warm enough to sound human.
+- Direct enough to hold attention.
+- Reflective without becoming vague.
+- Ambitious without sounding inflated.
+- Careful with claims.
+
+Avoid:
+- Guru language.
+- Viral outrage.
+- Overpromising.
+- Fake certainty.
+- Corporate filler.
+
+## Personal Details Still Needed
+Please fill these in when ready:
+- Full name as it should appear on LinkedIn.
+- Preferred title.
+- Location / time zone.
+- One-sentence personal origin story.
+- Academic or professional credentials you want mentioned.
+- Personal experiences that should shape the voice.
+- Any topics you do not want posted about.

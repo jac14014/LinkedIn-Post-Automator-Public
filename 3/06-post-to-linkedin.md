@@ -1,53 +1,52 @@
 # SOP 06: Post / Schedule to LinkedIn
 
 ## Purpose
-Take the final post (text + image/carousel) and publish or schedule it to LinkedIn.
+Take the final LinkedIn post and publish or schedule it with proper review for institutional accuracy.
 
-## How to Use in Cowork
-Ask Claude: "Post this to LinkedIn" or "Schedule this post for tomorrow at 9am"
+## How to Use
+Ask: "Prepare this post for LinkedIn" or "Schedule this post for [date/time]"
 
-## Option A: Manual Post
-1. Open LinkedIn (linkedin.com or the app)
-2. Click "Start a post"
-3. Paste the post text from SOP 02 output
-4. Attach the image (from SOP 03/04) or carousel PDF (from SOP 05)
-5. Click "Post" or use LinkedIn's built-in scheduler (clock icon)
+## Pre-Publication Checklist
+Before posting, confirm:
+- No confidential donor, candidate, grant, legal, governance, or partnership information is disclosed.
+- No unverified partnership, funding, deployment, or endorsement is implied.
+- The post is consistent with c-ECO and Foundation tone.
+- The CTA is calm, serious, and appropriate.
+- Any links are public and correct.
+- The post reads well on mobile.
 
-## Option B: Automated via Claude Cowork + Browser
-If you have Claude in Chrome connected:
+## Manual Posting
+1. Open LinkedIn.
+2. Click "Start a post."
+3. Paste the final post text.
+4. Add image or carousel if relevant.
+5. Review spacing, links, and tone.
+6. Post or schedule.
+
+## Scheduling Guidance
+- Best default window: weekday mornings.
+- Prefer 3-5 strong posts per week over low-quality daily posting.
+- Avoid posting major institutional claims late at night or without review.
+- Do not edit immediately after publishing unless there is a factual issue.
+
+## Suggested Review Prompt
 
 ```
-Go to LinkedIn and create a new post.
-Paste this text:
-[PASTE POST TEXT]
+Review this LinkedIn post before publication for c-ECO and the Johann Christian Hasse Foundation.
 
-Attach this image: [path to image file]
+Check for:
+1. Institutional accuracy
+2. Confidentiality risk
+3. Overclaiming
+4. Tone alignment
+5. CTA clarity
+6. Mobile readability
 
-Schedule it for [DATE] at [TIME] or post it now.
+POST:
+[PASTE POST HERE]
+
+Return:
+- Publish as-is / revise first
+- Required edits
+- Optional improvements
 ```
-
-## Option C: Automated via Scheduling Tool
-Use a tool like:
-- **Buffer** (buffer.com) - Free tier available
-- **Typefully** (typefully.com) - Great for LinkedIn
-- **Publer** (publer.io)
-- **Hootsuite** (hootsuite.com)
-
-Copy the post text + image, paste into the scheduling tool, pick your date/time, and schedule.
-
-## Option D: Claude Cowork Scheduled Task
-Use the /schedule skill to set up a daily automation:
-```
-Every weekday at 8:00 AM:
-1. Read the next unused post idea from 4-data/content-ideas.md
-2. Run SOP 02 to write the post
-3. Run SOP 03 to pick an image
-4. Save the output to a "ready-to-post" folder
-5. Notify me to review and publish
-```
-
-## Best Practices
-- Post between 8-10am in your target audience's timezone
-- One post per day, every weekday
-- Engage with comments within the first hour (algorithm boost)
-- Don't edit the post after publishing (resets the algorithm)

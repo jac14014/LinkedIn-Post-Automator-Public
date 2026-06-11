@@ -1,67 +1,56 @@
-# LinkedIn Carousel: Building a LinkedIn Automation System in 45 Minutes
+# LinkedIn Carousel: Governance Before Grants
 
 **Slide 1**
-How I Automated My LinkedIn in 45 Minutes
-Nick Sarafa / Light School
+Governance Before Grants
 
----
+Why large funding can strengthen or distort a young scientific nonprofit.
 
 **Slide 2**
-Tired of Manual LinkedIn Posts?
-Stop the grind. Build your own automation system.
+Not every large grant is a good grant.
 
----
+Size is not the same as institutional fit.
 
 **Slide 3**
-The 4-Layer System
-Strategy → Context → SOPs → Data
-That's it. That's how you win.
+Restricted funding creates obligations.
 
----
+Reporting, compliance, staffing, matching funds, timelines, and stewardship.
 
 **Slide 4**
-Layer 1: Strategy
-Define what you post (goals, content types, posting schedule)
-Takes 5 minutes. Game changer.
+Rapid expansion creates risk.
 
----
+The organization may scale faster than its governance can absorb.
 
 **Slide 5**
-Layer 2: Context
-Who are you? What's your brand voice? Store it once, use it forever.
-Reusable. Scalable. Done.
+Mission drift can be quiet.
 
----
+It often begins as a reasonable funding compromise.
 
 **Slide 6**
-Layer 3: SOPs and Prompts
-Step-by-step instructions for every task. Let AI execute them.
-No guesswork. Pure efficiency.
+Before major grants, build:
 
----
+Board oversight.
+Conflict policies.
+Decision protocols.
+Risk review.
+Financial controls.
 
 **Slide 7**
-Layer 4: Data
-Feed your system: ideas, past posts, images, blog content.
-Better data = better posts.
+The real question:
 
----
+Can the institution absorb the opportunity without losing its integrity?
 
 **Slide 8**
-The Real Magic
-You build the system once. Then it runs on autopilot.
-45 minutes of setup. Months of automation.
+That is why grant strategy is governance.
 
----
+Not fundraising.
+Not proposal writing.
+Not donor chasing.
 
 **Slide 9**
-Recap
-Strategy + Context + SOPs + Data = Your LinkedIn on autopilot.
-It's that straightforward.
-
----
+The Johann Christian Hasse Foundation is building this architecture before scale.
 
 **Slide 10**
-Want the Free Template?
-DM me "system" and I'll send it over.
-Let's automate your LinkedIn.
+Serious governance before irreversible commitments.
+
+Read more:
+https://c-eco.org/foundation/org-chart.html

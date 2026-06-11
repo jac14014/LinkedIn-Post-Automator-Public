@@ -1,7 +1,7 @@
-**Image prompt**: Young founder sitting at wooden desk in sunlit tropical room (Lisbon balcony or Costa Rica veranda), laptop glow on face, eyes wide with realization and joy, surrounded by soft ambient light, plant in background, moment of breakthrough clarity, warm morning golden hour, cozy startup workspace aesthetic, genuine human emotion of "this just became real"
+# AI Image Prompt: Predictive Governance
 
-**Style**: Photo-realistic, cinematic, warm color grading
+Editorial institutional image showing a formal decision table with layered transparent diagrams of Earth system thresholds, governance escalation pathways, and a temporal decision register. Cream paper, gold seal, black ink annotations, muted green and restrained blue system lines, serious scientific and legal atmosphere, natural light, no sensational disaster imagery, no text overlays, LinkedIn-ready.
 
-**Aspect ratio**: 16:9
+**Aspect ratio**: 1:1
 
-**Alternative prompt**: Abstract illustration of digital time flowing upward as possibility — sand from an hourglass transforming into glowing particles, ascending stars/ideas, modern minimalist style with warm orange/golden tones, hopeful and expansive feeling, AI-generated aesthetic, cozy color palette reminiscent of Lisbon sunset or Costa Rica golden hour
+**Style**: Institutional mixed media with subtle scientific diagram overlay.

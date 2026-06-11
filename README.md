@@ -1,157 +1,103 @@
-# LinkedIn Post Automator
+# LinkedIn Post Automator - c-ECO Edition
 
-An open-source system for automating LinkedIn content creation using Claude Cowork (or any AI tool). Built by Nick Sarafa / Light School.
+A folder-based LinkedIn content system customized for c-ECO and the Johann Christian Hasse Foundation.
+
+This repository stores strategy, context, prompts, content ideas, and examples so AI tools can generate LinkedIn posts in a consistent institutional voice.
 
 ## What This Is
 
-A folder-based system that turns your brain dump into one great LinkedIn post. No code required. Just files, prompts, and Claude.
+This is a practical content operating system.
 
-The idea is simple: instead of staring at a blank LinkedIn post every morning, you set up your context once, write your SOPs (prompts), and let AI do the heavy lifting while you keep the creative control.
+It helps turn c-ECO's public materials, Foundation governance work, research concepts, and institutional build updates into LinkedIn posts that are clear, serious, and aligned with the mission.
 
-One post at a time. That's how you 10x your output without burning out.
+The goal is not viral content for its own sake.
+
+The goal is credibility, clarity, and connection with serious people working in science, law, governance, philanthropy, systemic risk, resilience, and institutional design.
 
 ## How It Works
 
-This system has 4 layers (just like any good automation):
+The system has 4 layers:
 
 ```
-1-strategy/     Your game plan. Goals, content types, cadence.
-2-context/      Who you are, what you do, how you sound. (Reusable for ANY automation)
-3-sops/         Step-by-step prompts for each task in the pipeline.
-4-data/         Your raw material. Ideas, past posts, images, blog content.
+1/     Strategy: goals, pillars, cadence, boundaries.
+2/     Context: founder, Foundation, programs, voice, design.
+3/     SOPs: reusable prompts for writing, images, carousels, and analysis.
+4/     Data: content ideas, examples, drafts, images, and past posts.
 ```
 
-## The Core Pipeline
-
-The default workflow produces one post:
+## Core Pipeline
 
 ```
-Generate Ideas (SOP 01)    "Give me 5 post ideas"
+Generate Ideas (SOP 01)
        |
    Pick One
        |
-  Write Post (SOP 02)      Hook + Body + CTA, in your voice
+  Write Post (SOP 02)
        |
-  Post to LinkedIn (SOP 06)
+  Review for institutional accuracy
+       |
+  Post or Schedule (SOP 06)
 ```
 
-Optional add-ons (when you need them):
-- SOP 03: Pick an image from your library
-- SOP 04: Generate an AI image
-- SOP 05: Generate a carousel (use with Canva connector)
-- SOP 07: Analyze past post performance
+Optional:
+- SOP 03: Pick an image from the brand library.
+- SOP 04: Generate an image prompt.
+- SOP 05: Generate a LinkedIn carousel.
+- SOP 07: Analyze post performance.
 
-## Quick Start (5 minutes)
+## Quick Start
 
-### Step 1: Customize Your Context
-Edit the files in `2-context/` to match YOUR brand:
-- `me.md` - Your bio, story, values, and beliefs
-- `business.md` - What your business does, who you serve, your offers
-- `product.md` - Your specific products/programs and CTAs
-- `brand-guidelines.md` - Your tone of voice, copywriting rules, design guidelines
+### Step 1: Complete Founder Context
+Edit `2/me.md` and fill in the personal details still marked as placeholders:
+- Full name.
+- Preferred title.
+- Location / time zone.
+- Personal origin story.
+- Credentials you want mentioned.
+- Topics to avoid.
 
-### Step 2: Add Your Data
-Drop files into `4-data/`:
-- `content-ideas.md` - Brain dump all your post ideas here
-- `past-posts/` - Add your best-performing past posts for reference
-- `posts-i-like/` - Save LinkedIn posts from others that inspire you
-- `brand-images/` - Your photos, logos, graphics
-- `blog-posts/` - Any long-form content to repurpose
+### Step 2: Review Institutional Context
+Review:
+- `2/business.md`
+- `2/product.md`
+- `2/brand-guidelines.md`
+- `1/strategy.md`
 
-### Step 3: Write a Post
-Open Claude Cowork (or any AI chat), point it at this folder, and say:
+These files define the c-ECO and Foundation content universe.
 
-> "Write me a LinkedIn post."
+### Step 3: Generate a Post
+Ask your AI tool:
 
-That's it. Claude reads your context, picks an idea from your bank, writes it in your voice, and gives you a post ready to copy-paste.
+> Generate 10 LinkedIn post ideas for this week.
 
-Want more control? Try:
+Then:
 
-> "Write a LinkedIn post about [specific topic from your ideas bank]."
+> Write a LinkedIn post about [chosen topic].
 
-Or start from scratch:
+Before publishing, run the review checklist in `3/06-post-to-linkedin.md`.
 
-> "Generate 5 post ideas, then write one about whichever is best for engagement."
+## Current Public Links
 
-## Using with Claude Cowork
+- c-ECO: https://c-eco.org
+- Foundation: https://c-eco.org/foundation/foundation.html
+- Foundation Org Chart: https://c-eco.org/foundation/org-chart.html
+- Grant Strategy Chair Assessment: https://c-eco.org/foundation/founding-grant-strategy-assessment.html
 
-This system is designed to work beautifully with Claude Cowork:
+## Editorial Principle
 
-1. **Select this folder** as your workspace in Cowork
-2. Claude automatically has access to all your context, SOPs, and data
-3. Just talk to it naturally: "Write me a LinkedIn post about AI being like anger"
-4. It reads your tone of voice, strategy, and content ideas automatically
-5. When you're happy with the post, say "post it to LinkedIn" (requires Claude in Chrome)
+Every post should answer one of these questions:
 
-### Scheduling (Advanced)
-You can use Cowork's `/schedule` feature to automate daily:
-```
-Every weekday at 8am:
-- Pick the next unused content idea
-- Write a post in my voice
-- Save it for my review
-```
+- What governance problem does c-ECO address?
+- Why does timing matter before harm becomes irreversible?
+- What institutional structure is being built?
+- What does serious grant-readiness look like?
+- How do science, law, and governance need to communicate?
+- Who should be paying attention?
 
-## Folder Structure
+## Safety Rule
 
-```
-LinkedIn-Post-Automator/
-|
-|-- README.md                          # You are here
-|-- 1-strategy/
-|   |-- strategy.md                    # Goals, content types, cadence, what NOT to do
-|
-|-- 2-context/
-|   |-- me.md                          # Your bio, story, values
-|   |-- business.md                    # Your business info and offers
-|   |-- product.md                     # Your products and CTAs
-|   |-- brand-guidelines.md            # Tone of voice, design rules
-|
-|-- 3-sops/
-|   |-- 01-generate-post-ideas.md      # Brainstorm post ideas
-|   |-- 02-write-post.md               # Write the post (hook + body + CTA)
-|   |-- 03-pick-image.md               # Pick image from your library
-|   |-- 04-generate-image.md           # Generate AI image
-|   |-- 05-generate-carousel.md        # Create carousel slides
-|   |-- 06-post-to-linkedin.md         # Publish or schedule
-|   |-- 07-analyze-performance.md      # Review what's working
-|
-|-- 4-data/
-    |-- content-ideas.md               # Your idea bank
-    |-- past-posts/                    # Past posts for reference
-    |-- posts-i-like/                  # Inspiration from others
-    |-- brand-images/                  # Your image library
-    |-- blog-posts/                    # Long-form content to repurpose
-```
+Do not publish posts that disclose confidential information, overstate institutional status, imply unconfirmed partnerships, promise funding, or claim operational deployment beyond what is public and accurate.
 
-## Why This Approach Works
+## Origin Note
 
-**Context is everything.** Most people fail at AI content because they give zero context. This system front-loads all your context (who you are, how you sound, what you sell) so every prompt produces on-brand output.
-
-**SOPs are just prompts.** If you do something repeatedly, write the prompt once, save it as an SOP, and reuse it forever. This is the new way of working.
-
-**One post at a time.** Don't overcomplicate it. Generate ideas, pick one, write it, post it. That daily habit is what 10x's your content output over time.
-
-**Data compounds.** The more past posts, content ideas, and brand images you add, the better the system gets. It learns what works for YOU.
-
-**It's portable.** This isn't locked into any one tool. Works with Claude, ChatGPT, Gemini, or any AI that can read files. The context and prompts are universal.
-
-## Demo Script (For the Lecture)
-
-1. **Show the folder structure** - Explain the 4 layers (strategy, context, SOPs, data)
-2. **Open Claude Cowork** - Select this folder as workspace
-3. **Say "Write me a LinkedIn post"** - Show it reading context and writing in your voice
-4. **Tweak it** - "Make the hook punchier" or "add a personal story"
-5. **Post it** - Copy-paste to LinkedIn or use Claude in Chrome
-6. **Show the /schedule feature** - "Schedule this to run every morning"
-7. **Key takeaway**: "You set this up ONCE. Then it works forever. And you can fork this repo and customize it for YOUR brand in 30 minutes."
-
-## Fork It, Make It Yours
-
-This is open source. Fork it, customize the context files for your brand, and you have your own LinkedIn automation system in under an hour.
-
-The context files in `2-context/` are designed to be reusable across ANY content automation (newsletters, Instagram, X/Twitter, email sequences). Set them up once, use them everywhere.
-
----
-
-Built with Light School. Learn more at lightschool.com
+This repository began as an open-source LinkedIn automation template and has been customized for c-ECO and the Johann Christian Hasse Foundation.

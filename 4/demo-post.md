@@ -1,25 +1,46 @@
-I built a LinkedIn posting system in 45 minutes and I don't write code.
-Yeah, I said it.
+# Demo Post - Governance Before Grants
 
-No developer, no AI magic wand, just a folder structure, some markdown files, and Claude Cowork doing the heavy lifting.
-Here's what I'm demoing tomorrow in Lisbon to people who've never touched Python.
+A young scientific nonprofit should not chase every large grant.
 
-You take a content prompt (like "write something about AI education").
-Drop it in a folder.
-The system reads it.
-Generates a post that sounds like YOU (not like a bot trying to sell something).
-Spits out a formatted markdown file ready to paste directly into LinkedIn.
+That sounds counterintuitive.
 
-The entire pipeline is just context files and markdown.
-No database.
-No API keys scattered everywhere.
-No "set up your environment" nonsense that kills momentum.
+Most people assume the biggest grant is automatically the best opportunity.
 
-This is what happens when you stop thinking like an engineer and start thinking like a user who just needs something to WORK.
+It is not.
 
-I'm bringing the full template open-source tomorrow.
-Non-technical founders, AI educators, community builders, anyone building in public.
-This is for you.
+A $5M implementation grant can strengthen an institution.
 
-DM me "system" and I'll send you the template.
-Or swing by the workshop tomorrow if you're around Lisbon.
+It can also break it.
+
+Restricted funding can accelerate research.
+
+It can also quietly redirect mission, overload staff, create reporting obligations the organization cannot yet sustain, and force governance decisions before governance systems exist.
+
+That is why the Johann Christian Hasse Foundation is treating grant strategy as a governance question first.
+
+Before major funding comes:
+
+Board oversight.
+
+Conflict policies.
+
+Restricted fund controls.
+
+Decision protocols.
+
+Reporting capacity.
+
+Risk review.
+
+Mission alignment tests.
+
+The question is not only "Can we win the grant?"
+
+The better question is:
+
+Can the institution absorb the grant without losing its integrity?
+
+That is the work.
+
+More on the Foundation's governance architecture:
+https://c-eco.org/foundation/org-chart.html

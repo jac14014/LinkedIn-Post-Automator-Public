@@ -1,117 +1,65 @@
 # Content Ideas Bank
 
-Source: Apple Notes (50 ideas pulled March 23, 2026) + ongoing additions.
 Mark ideas as [USED] after posting. Add new ideas at the bottom.
 
 ---
 
-## 1. AI Scheduled Tasks Process
-Map your day in 15 minute increments. Create SOPs (SOPs are now prompts). Put the SOPs on the calendar. If you do the same thing over and over again, do it right once instead of repeating. Demo: Show all 4 ways: Chat, Cowork scheduled, Dispatch, Claude Code. End up with a repository of prompts and/or SOPs.
+## 1. Governance Before Grants
+Why a young scientific nonprofit should build governance systems before aggressively pursuing major grants. Use the Grant Strategy Committee Chair assessment as the concrete public example.
 
-## 2. Exposure to Confidence Framework
-Get known for exposure to confidence framework. Create interface. Let people place each thing on the chart. Make videos about exposure and confidence updates on the world. 3 corners of the triangle: artist, integrator, visionary. Humanity's last roles.
+## 2. The Trilemma of Funding
+Compare three funding opportunities: a small unrestricted grant, a larger restricted research grant, and a very large implementation grant that forces rapid expansion. Explain why "largest" is not always "best."
 
-## 3. Go Above and Beyond
-Go above and beyond for the people who go above and beyond for you.
+## 3. Reversibility Before Harm
+Explain why governance should act while choices are still reversible, not only after harm becomes legally visible.
 
-## 4. Engineering Problems
-All of humanity's problems are engineering problems, and engineering problems can be solved. ~ Buckminster Fuller
+## 4. Biophysical Limits Are Boundary Conditions
+Make the case that ecological limits are not externalities, preferences, or policy decorations. They are constraints that institutions must learn to govern within.
 
-## 5. My Story (Long Form)
-When I was a kid my grandmother was killed by somebody texting while driving. This threw me into an unexpected life path: creating software. Despite getting my app into the Android App Store I didn't make a dent. What I learned was a key skill: software engineering. We ran out of money. I was burnt out. The importance of storytelling. AI is taking over the world and thanks to the 20,000 hours I spent inside a computer I know the ins and outs of what's coming.
+## 5. Predictive Governance Is Not Automation
+Clarify that c-ECO does not replace human judgment. It creates better signals, duties, records, and decision protocols for human governance.
 
-## 6. Optimal Anxiety
-When having a massive professional breakthrough.
+## 6. Legal Temporality
+Explain the idea that law has a timing problem: duties and responsibilities should change when systemic risk becomes foreseeable.
 
-## 7. AI is an Octopus
-(Develop this one)
+## 7. Why the Foundation Needs a Grant Strategy Committee
+Explain the difference between fundraising activity and grant governance. The Chair role is not day-to-day fundraising. It is institutional stewardship.
 
-## 8. Energetic OCD
-(Develop this one)
+## 8. The Problem With Scaling Too Fast
+Write about how unrestricted growth through restricted funding can distort mission, capacity, governance, and scientific integrity.
 
-## 9. God Show Me What My Time Is Worth
-(Develop this one)
+## 9. What a 10-Year Funding Architecture Looks Like
+Explain diversification, predictability, resilience, operating reserves, restricted funding safeguards, and governance review.
 
-## 10. The Box No Longer Exists
-(Develop this one)
+## 10. The Temporal Decision Register
+Introduce the idea of a decision register that records signals, timing, uncertainty, decisions, and accountability.
 
-## 11. AI is Perfect for People with Trust Issues
-(Develop this one)
+## 11. Threshold Function Protocol
+Explain TFP as a governance translation layer between scientific signals and institutional decision pathways.
 
-## 12. MoltBot vs Claude Cowork
-Is Moltbot better than Claude CoWork? Claude CoWork is kind of like Claude Code for the everyday person who will never open a terminal. Moltbot is a whole different beast: unlimited access to the internet and the ability to do anything. Both brand new. One cool thing about CoWork: you can /schedule and have a task run every day.
+## 12. Why Institutions Fail Before They Collapse
+Explore the idea that institutional failure often begins with unclear duties, weak records, slow escalation, and misaligned incentives.
 
-## 13. Deliberateness Is the New Meta Skill
-Being intentional and deliberately putting things INTO tension is the most important skill.
+## 13. The Role of a Scientific Nonprofit in Systemic Risk
+Describe why some problems require institutions that can hold science, law, governance, and long-term development together.
 
-## 14. Using ChatGPT is Like Using Facebook
-(Develop this one)
+## 14. Building c-ECO in Public
+Share a careful build update: a new page, assessment, framework, role, diagram, or governance document. Explain why that piece matters.
 
-## 15. AI is Like Anger
-When undirected it's dangerous. When intentional it's an amazing catalyst for change.
+## 15. Why Board Architecture Matters
+Explain how committees, charters, reporting lines, and fiduciary roles protect mission integrity before scale.
 
-## 16. 10,000 Iterations Not 10,000 Hours
-Pause, reflect, and see how well you did. Iterate it.
+## 16. Earth System Integrity as an Institutional Problem
+Show how ecological risk becomes legal, financial, operational, and governance risk through institutional pathways.
 
-## 17. What is the Shape of the Internet?
-(Develop this one)
+## 17. The Difference Between Signal and Decision
+Explain why detecting a risk is not the same as having a legitimate institutional process for responding to it.
 
-## 18. Build as a Prayer to God
-(Develop this one)
+## 18. Mission Drift Through Funding
+Explain how well-intentioned funding can pull a nonprofit away from its core purpose if governance is weak.
 
-## 19. There Are Certain People Who Just Get It
-You don't need to explain. They just know what is going on.
+## 19. Living Labs Without Premature Deployment
+Discuss how Living Labs can support learning and validation without pretending that every concept is already operationally proven.
 
-## 20. Practice What You Preach
-Lead from the front.
-
-## 21. Make Your Tools a Reflection of Your Own Individuality
-You are one of a kind so why is everything the same? Don't be afraid of your uniqueness.
-
-## 22. Your Kids Will Be Raised by Robots
-(Develop this one)
-
-## 23. We're Going Through a Digital Renaissance
-(Develop this one)
-
-## 24. The Value of Your Time Has Increased Exponentially Because of AI
-Your ideas are no longer crazy.
-
-## 25. My Grandmother Was Killed by Somebody Texting While Driving (Short Version)
-Sometimes your Dharma chooses you. Sometimes the hardest things in life are actually your greatest calling. Light comes from the cracks in the shadows.
-
-## 26. Speed x Integrity
-Is everything in business.
-
-## 27. If You're Gonna Work, Do It Fully and Completely
-If you're gonna relax, do it fully and completely. Whatever you do, do it fully and completely.
-
-## 28. It's Hard to Compete Against Somebody Who is Just Trying to Have Fun
-(Develop this one)
-
-## 29. Prompt It Into Existence
-(Develop this one)
-
-## 30. It's Not Supposed to Work the First Time
-Apps just work but most things aren't like that.
-
-## 31. Most People Are Addicted to Fakes
-(Develop this one)
-
-## 32. AI is Going to Solve a Lot More Problems Than It Causes
-(Develop this one)
-
-## 33. I've Never Been More Hopeful for the World
-It's not gonna make sense at first but on the other side of this is unlimited abundance for all.
-
-## 34. If Somebody is Excited About Something
-Share in their excitement. Don't cast doubt. Don't judge it. Don't tell them they can't do it.
-
-## 35. Make AI Your Ally
-(Develop this one)
-
-## 36. What Would You Create If You Weren't Afraid to Try?
-Fear of failure stops most ideas before they start. This program makes trying so easy, fear doesn't stand a chance.
-
-## 37. Just Have Fun
-You're too old and you're too wise to not just have fun.
+## 20. Invitation to Serious Collaborators
+Write a post for scientists, lawyers, funders, governance experts, and institutional builders who understand the need for predictive governance.

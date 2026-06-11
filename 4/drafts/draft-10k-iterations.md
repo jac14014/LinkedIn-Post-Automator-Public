@@ -1,26 +1,29 @@
-Malcolm Gladwell sold you a lie and you bought it wholesale.
+# Draft - Institutional Iteration
 
-10,000 hours means nothing if you never stopped to look at what you built.
+Serious institutions are not built in one announcement.
 
-I spent years grinding. Writing code at 2am. Shipping things nobody asked for. Telling myself the hours would eventually "click" into mastery.
+They are built through repeated acts of architecture.
 
-They didn't.
+A charter.
 
-You know what actually worked? The 47th version of a landing page that finally converted. The 12th rewrite of a workshop pitch that actually filled seats. The 3rd complete pivot of my business model in 18 months.
+A committee.
 
-Iterations. Not hours.
+A decision rule.
 
-The difference is brutal and simple.
+A record.
 
-Hours = showing up.
-Iterations = showing up, LOOKING at what happened, and changing something before you show up again.
+A public page.
 
-Most people are on a treadmill. Same inputs, same outputs, wondering why nothing moves.
+A candidate assessment.
 
-AI made this even more obvious. You can now iterate 10x faster than you could 2 years ago. But if you're not pausing to evaluate what's working, you're just generating garbage at scale.
+A funding safeguard.
 
-Pause. Reflect. See how well you did. Then change ONE thing.
+A review protocol.
 
-That's the whole game.
+Each piece looks small from the outside.
 
-What's something you iterated on this week that actually got better? Drop it below. I want to hear the real ones, not the humble brags.
+But together they create the conditions for trust.
+
+That is how the Johann Christian Hasse Foundation is being built:
+
+not as a campaign, but as an institution.

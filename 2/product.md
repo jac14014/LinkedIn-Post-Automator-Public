@@ -1,36 +1,47 @@
-# Product Context - Light School Programs
+# Product / Program Context - c-ECO and the Foundation
 
-## Current Offers
+## Public Components
 
-### AI Builders Program
-- 8-week cohort-based program
-- For non-technical, mission-driven founders
-- Takes them from stuck to launched
+### c-ECO Doctrine
+The conceptual and legal architecture behind predictive governance, biophysical limits, temporal integrity of law, and reversibility before harm.
 
-### 8-Week Milestone Process
-1. Understand Process from Going from Hell to Heaven
-2. Build Fluency and Competency using AI Tooling
-3. Understand Technological Shifts and Future Potentials
-4. Articulate the Central Design Challenge
-5. Identify Your MVP Concept
-6. Identify Your Core Messaging
-7. Identify Your Process and Roadmap
-8. Identify Your Resources to Manifest Vision
+### Threshold Function Protocol (TFP)
+A governance protocol for translating systemic risk signals into structured classification, escalation, and decision pathways.
 
-### AI Mastery Day (Workshop)
-- In-person workshop format
-- Hands-on AI skill building
-- Locations: Lisbon, London
+### Temporal Decision Register (TDR)
+A record architecture for tracking risk signals, timing, decisions, obligations, and institutional accountability.
 
-### AI Accelerator Weekend
-- Weekend intensive in Lisbon
-- Rapid prototyping and building
+### Johann Christian Hasse Foundation
+The nonprofit institutional structure for governance, stewardship, advisory development, fellowship architecture, grant strategy, and long-term resilience.
 
-## CTAs (Calls to Action)
-- Join a free workshop
-- Send me a DM
-- Book a call via Calendly
+### Living Labs
+Place-based or domain-specific environments for testing and translating governance architectures into operational, scientific, legal, and institutional contexts.
 
-## Pricing
-- High-ticket transformation offers (not info products)
-- Focus on outcomes, not hours
+### Fellowship
+Educational and research pathways for developing scholars, practitioners, and institutional contributors around c-ECO methodology and systemic governance.
+
+### Grant Strategy Committee Chair Assessment
+A candidate assessment page for the volunteer governance role of Founding Grant Strategy Committee Chair.
+
+Public link:
+https://c-eco.org/foundation/founding-grant-strategy-assessment.html
+
+## CTAs
+- Read the public Foundation materials.
+- Review the organizational architecture.
+- Connect if you work in systemic risk, Earth system science, law, governance, philanthropy, or institutional design.
+- Share serious feedback.
+- Apply or complete the relevant assessment when invited.
+
+## Not a Sales Funnel
+This LinkedIn system should not sound like a high-pressure marketing funnel.
+
+The goal is credibility, clarity, trust, and serious alignment.
+
+## Sensitive Boundaries
+Do not generate posts that:
+- Promise grants or funding.
+- Claim active partnerships that are not public.
+- Present draft governance roles as filled.
+- Invite candidates to confidential processes without proper context.
+- Disclose private foundation, donor, legal, or candidate information.
